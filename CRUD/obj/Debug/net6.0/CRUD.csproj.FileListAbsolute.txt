@@ -1,0 +1,30 @@
+E:\Projects\CRUD\CRUD\bin\Debug\net6.0\CRUD.exe
+E:\Projects\CRUD\CRUD\bin\Debug\net6.0\CRUD.deps.json
+E:\Projects\CRUD\CRUD\bin\Debug\net6.0\CRUD.runtimeconfig.json
+E:\Projects\CRUD\CRUD\bin\Debug\net6.0\CRUD.dll
+E:\Projects\CRUD\CRUD\bin\Debug\net6.0\ref\CRUD.dll
+E:\Projects\CRUD\CRUD\bin\Debug\net6.0\CRUD.pdb
+E:\Projects\CRUD\CRUD\obj\Debug\net6.0\CRUD.csproj.AssemblyReference.cache
+E:\Projects\CRUD\CRUD\obj\Debug\net6.0\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\CRUD\CRUD\obj\Debug\net6.0\CRUD.AssemblyInfoInputs.cache
+E:\Projects\CRUD\CRUD\obj\Debug\net6.0\CRUD.AssemblyInfo.cs
+E:\Projects\CRUD\CRUD\obj\Debug\net6.0\CRUD.csproj.CoreCompileInputs.cache
+E:\Projects\CRUD\CRUD\obj\Debug\net6.0\CRUD.dll
+E:\Projects\CRUD\CRUD\obj\Debug\net6.0\ref\CRUD.dll
+E:\Projects\CRUD\CRUD\obj\Debug\net6.0\CRUD.pdb
+E:\Projects\CRUD\CRUD\obj\Debug\net6.0\CRUD.genruntimeconfig.cache
+F:\C#\Maktab Sharif Class\تمرین ها\05\CRUD\CRUD\bin\Debug\net6.0\CRUD.exe
+F:\C#\Maktab Sharif Class\تمرین ها\05\CRUD\CRUD\bin\Debug\net6.0\CRUD.deps.json
+F:\C#\Maktab Sharif Class\تمرین ها\05\CRUD\CRUD\bin\Debug\net6.0\CRUD.runtimeconfig.json
+F:\C#\Maktab Sharif Class\تمرین ها\05\CRUD\CRUD\bin\Debug\net6.0\CRUD.dll
+F:\C#\Maktab Sharif Class\تمرین ها\05\CRUD\CRUD\bin\Debug\net6.0\ref\CRUD.dll
+F:\C#\Maktab Sharif Class\تمرین ها\05\CRUD\CRUD\bin\Debug\net6.0\CRUD.pdb
+F:\C#\Maktab Sharif Class\تمرین ها\05\CRUD\CRUD\obj\Debug\net6.0\CRUD.csproj.AssemblyReference.cache
+F:\C#\Maktab Sharif Class\تمرین ها\05\CRUD\CRUD\obj\Debug\net6.0\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Maktab Sharif Class\تمرین ها\05\CRUD\CRUD\obj\Debug\net6.0\CRUD.AssemblyInfoInputs.cache
+F:\C#\Maktab Sharif Class\تمرین ها\05\CRUD\CRUD\obj\Debug\net6.0\CRUD.AssemblyInfo.cs
+F:\C#\Maktab Sharif Class\تمرین ها\05\CRUD\CRUD\obj\Debug\net6.0\CRUD.csproj.CoreCompileInputs.cache
+F:\C#\Maktab Sharif Class\تمرین ها\05\CRUD\CRUD\obj\Debug\net6.0\CRUD.dll
+F:\C#\Maktab Sharif Class\تمرین ها\05\CRUD\CRUD\obj\Debug\net6.0\ref\CRUD.dll
+F:\C#\Maktab Sharif Class\تمرین ها\05\CRUD\CRUD\obj\Debug\net6.0\CRUD.pdb
+F:\C#\Maktab Sharif Class\تمرین ها\05\CRUD\CRUD\obj\Debug\net6.0\CRUD.genruntimeconfig.cache
